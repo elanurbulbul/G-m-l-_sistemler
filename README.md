@@ -1,1 +1,0 @@
-# Gomulu_sistemler
