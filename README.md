@@ -1,1 +1,1 @@
-# G-m-l-_sistemler
+# Gomulu_sistemler
