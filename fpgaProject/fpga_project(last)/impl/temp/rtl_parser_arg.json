@@ -1,0 +1,16 @@
+{
+ "Files" : [
+  {
+   "Path" : "C:/Users/elanr/Downloads/fpga_project(last)/elaodev.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "C:/Users/elanr/Downloads/fpga_project(last)/impl/temp/rtl_parser.result",
+ "Top" : "",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

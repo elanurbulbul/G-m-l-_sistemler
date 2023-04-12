@@ -1,0 +1,11 @@
+-d C:\Users\elanr\Downloads\fpga_project(last)\impl\gwsynthesis\fpga_project(last).vg
+-p GW1NZ-1-QFN48-6
+-pn GW1NZ-LV1QN48C6/I5
+-cst C:\Users\elanr\Downloads\fpga_project(last)\src\fpga_project(last).cst
+-cfg C:\Users\elanr\Downloads\fpga_project(last)\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-route_maxfan 10
